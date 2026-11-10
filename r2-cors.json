@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "allowed": {
+        "origins": [
+          "https://portal.example.com",
+          "https://clinic-portal.your-subdomain.workers.dev",
+          "http://localhost:3000"
+        ],
+        "methods": ["GET", "PUT"],
+        "headers": ["content-type"]
+      },
+      "exposeHeaders": ["etag"],
+      "maxAgeSeconds": 3600
+    }
+  ]
+}
