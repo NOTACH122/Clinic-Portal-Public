@@ -109,3 +109,10 @@ r2-cors.json              R2 bucket CORS rule (browser uploads)
 - Live Portal Copyright Is Owned by ltd Radi - All Rights Reserved.
 - Live Portal Repository Is Owned by ltd Radi - All Rights Reserved.
 - Code Copyright Is Owned By Archili Okroshidze (NOTACH122) - All Rights Reserved.
+
+## Screenshots:
+![Admin](admin.png)
+---
+![Folders](folders.png)
+---
+![Mobile](mobile.png)
